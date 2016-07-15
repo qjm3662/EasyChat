@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainItem</class>
+ <widget class="QWidget" name="MainItem">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>380</width>
+    <height>72</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>56</width>
+     <height>56</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QWidget{background:rgb(255, 255, 255);border-radius:28;border-image:url(:/src/src/color.jpg)}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="l_username">
+   <property name="geometry">
+    <rect>
+     <x>91</x>
+     <y>11</y>
+     <width>291</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QWidget{ background-color: rgba(255, 255, 255, 10);color:rgb(0, 0, 0)}</string>
+   </property>
+   <property name="text">
+    <string>253</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="l_sign">
+   <property name="geometry">
+    <rect>
+     <x>91</x>
+     <y>33</y>
+     <width>281</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QWidget{ background-color: rgba(255, 255, 255, 10);color:rgb(0, 0, 0)}</string>
+   </property>
+   <property name="text">
+    <string>好无聊呀~~</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

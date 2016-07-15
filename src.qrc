@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>src/chat.png</file>
+        <file>src/CHAT1.png</file>
+        <file>src/login.png</file>
+        <file>src/easy_chat1.png</file>
+        <file>src/line_edit.png</file>
+        <file>src/A3.jpg</file>
+        <file>src/file.jpg</file>
+        <file>src/send.png</file>
+        <file>src/color.jpg</file>
+        <file>src/photo (2).jpg</file>
+        <file>src/bubble.png</file>
+        <file>src/more.jpg</file>
+        <file>src/one.jpg</file>
+        <file>src/public.png</file>
+        <file>src/private.png</file>
+        <file>src/main.jpg</file>
+        <file>src/background.png</file>
+        <file>src/Groupbackground.jpg</file>
+        <file>src/siliaobackground.jpg</file>
+        <file>src/Logo.png</file>
+        <file>src/icon.ico</file>
+    </qresource>
+</RCC>
